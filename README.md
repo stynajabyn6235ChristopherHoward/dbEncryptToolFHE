@@ -1,4 +1,4 @@
-```markdown
+
 # dbEncryptToolFHE: Transforming Databases with FHE-Powered Privacy
 
 dbEncryptToolFHE is a sophisticated software tool designed to convert traditional relational databases (like MySQL, PostgreSQL) and NoSQL databases into FHE-encrypted versions that support homomorphic queries. At the core of this transformative capability lies **Zama's Fully Homomorphic Encryption technology**. By leveraging this cutting-edge encryption, businesses can enhance their data privacy without overhauling their existing architecture.
